@@ -1,0 +1,22 @@
+{
+  "name": "primo-pre-interview-project",
+  "version": "1.0.0",
+  "description": "A typescript project for \"Pre Interview Form Intern 22-23\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Maekin <maekin.nawmong@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  }
+}
